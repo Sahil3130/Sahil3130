@@ -6,7 +6,7 @@
   <h1> About ME </h1>
   <ul>
     <li> Competitive Programmer with C++. </li>
-    <li> CodeChef: <strong> 1779 [3⭐]</strong> </li>
+    <li> CodeChef: <strong> 1799 [3⭐]</strong> </li>
     <li> Front-end Web Developer. </li>
     <li> Business Enthusiast. </li>
   </ul>
